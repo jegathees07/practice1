@@ -1,0 +1,19 @@
+.image1{
+    width: 230px;
+
+}
+.image2{
+    width: 230px;
+    height: 125px;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: #dddd;
+}
+td,th{
+    border: 1px dotted ;
+    text-align: left;
+    padding: 10px 145px;
+}
